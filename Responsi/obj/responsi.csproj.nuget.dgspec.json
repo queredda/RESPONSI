@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\snroh\\Documents\\Que\\494376-FlaviaPualam-ResponsiJuniorProject\\Responsi2\\responsi.csproj": {}
+    "C:\\Users\\snroh\\Documents\\Que\\503299-MahsaQuereda-ResponsiJuniorProject\\Responsi\\responsi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\snroh\\Documents\\Que\\494376-FlaviaPualam-ResponsiJuniorProject\\Responsi2\\responsi.csproj": {
+    "C:\\Users\\snroh\\Documents\\Que\\503299-MahsaQuereda-ResponsiJuniorProject\\Responsi\\responsi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\snroh\\Documents\\Que\\494376-FlaviaPualam-ResponsiJuniorProject\\Responsi2\\responsi.csproj",
+        "projectUniqueName": "C:\\Users\\snroh\\Documents\\Que\\503299-MahsaQuereda-ResponsiJuniorProject\\Responsi\\responsi.csproj",
         "projectName": "responsi",
-        "projectPath": "C:\\Users\\snroh\\Documents\\Que\\494376-FlaviaPualam-ResponsiJuniorProject\\Responsi2\\responsi.csproj",
+        "projectPath": "C:\\Users\\snroh\\Documents\\Que\\503299-MahsaQuereda-ResponsiJuniorProject\\Responsi\\responsi.csproj",
         "packagesPath": "C:\\Users\\snroh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\snroh\\Documents\\Que\\494376-FlaviaPualam-ResponsiJuniorProject\\Responsi2\\obj\\",
+        "outputPath": "C:\\Users\\snroh\\Documents\\Que\\503299-MahsaQuereda-ResponsiJuniorProject\\Responsi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\snroh\\AppData\\Roaming\\NuGet\\NuGet.Config",
